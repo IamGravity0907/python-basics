@@ -1,0 +1,6 @@
+print("MY DAILY ROUTINE")
+print("7:00 AM - I wake up and brush my teeth.")
+print("8:00 AM - I go to school.")
+print("5:00 PM - I play football with my friends.")
+print("8:00 PM - I read for 1 hour.")
+print("Hours I read in a week: ", 1*7)
