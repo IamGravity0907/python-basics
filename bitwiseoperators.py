@@ -1,0 +1,7 @@
+print("Six bitwise operators:")
+print("&   AND")
+print("|   OR")
+print("^   XOR")
+print("~   NOT")
+print("<<  Left Shift")
+print(">>  Right Shift")
